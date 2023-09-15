@@ -24,5 +24,10 @@ Islamic year: 1445
 Restarting...
 
 
-
+Data format:
+Replace the header with " year  h   cd conj  f wk   mon  day  set   Saz    age  Alt Maz  dz  Mag El  mset  lag   best  cat"
+Remove irrelevent text written by publisher from all files
+Make sure columns align correctly
+Jiwani file is important because its conjuction time and moon age will be written on output file
+If you want to add other city just rename it with correct format and place it in moon data directory.
 
