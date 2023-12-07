@@ -1,17 +1,22 @@
-## Moonpy.
+## Moonpy
 
-* **It is a library use to read HM Nautical Almanac Office moon data and present the following Parameters according to the provided location**
-* **Moon Altitude**
-* **Sun and Moon Altitude and Azimuth,**
-* **Lag Time, Moon Illumination, DAZ(Difference in Sun and Moon Azimuth)**  
+### Discription
+* **It is a CLI based software use to read HM Nautical Almanac Office moon data and presents the required parameters according to the provided location**
+* **Picks file name from the given data file name and prints it in order**
+* **Tabulates sun and moon altitude and azimuth, lag Time, moon illumination, DAZ(Difference in Sun and Moon Azimuth), moon illumination, and visibility criteria**
+* **You can run moon.py file on python version 3.6**
 
-Its a CLI based software which reads the hermajesty moon parameters data that contains moon altitude and azimuth parameters and prints output pdf file in a specified format.
+### Data Format
+Data can be downloaded from HM Nautical Almanac Office website
 
-## Data Format
 ![Data Screenshot](datasample.PNG)
 
-## Generates PDF file 
+
+### Software Input
+
+![Output Screenshot](software.PNG)
+
+### Output
+
 ![Output Screenshot](outputsample.PNG)
 
-## Software screen looks like this
-![Output Screenshot](screen.PNG)
